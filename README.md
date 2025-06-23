@@ -1,4 +1,4 @@
-# ❤️ Heart-Disease-QLoRA-RAG
+# Fine-Tuned RAG System
 
 
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline using:
